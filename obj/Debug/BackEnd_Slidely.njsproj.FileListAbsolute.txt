@@ -1,0 +1,6 @@
+C:\Users\AYUSH G\source\repos\FrontEnd\BackEnd_Slidely\obj\Debug\BackEnd_Slidely.njsproj.AssemblyReference.cache
+C:\Users\AYUSH G\source\repos\FrontEnd\BackEnd_Slidely\obj\Debug\BackEnd_Slidely.njsproj.CoreCompileInputs.cache
+C:\Users\AYUSH G\source\repos\FrontEnd\BackEnd_Slidely\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\AYUSH G\source\repos\SLIDELY_AI\BackEnd_Slidely\obj\Debug\BackEnd_Slidely.njsproj.AssemblyReference.cache
+C:\Users\AYUSH G\source\repos\SLIDELY_AI\BackEnd_Slidely\obj\Debug\BackEnd_Slidely.njsproj.CoreCompileInputs.cache
+C:\Users\AYUSH G\source\repos\SLIDELY_AI\BackEnd_Slidely\bin\Microsoft.NodejsTools.WebRole.dll
