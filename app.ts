@@ -24,7 +24,7 @@ app.use('/api', reqRouter); // Mount the req.ts router under /api
 
 // catch 404 and forward to error handler
 app.use((req, res, next) => {
-    const err = new Error('Not Found vedya');
+    const err = new Error('Not Found!');
     err['status'] = 404;
     next(err);
 });
